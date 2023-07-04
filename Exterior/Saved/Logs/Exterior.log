@@ -1130,3 +1130,6 @@ Minimum required: 526.47
 [2023.07.04-05.41.02:736][  0]LogViewport: Scene viewport resized to 1716x1161, mode Windowed.
 [2023.07.04-05.41.02:863][  0]LogAutomationController: Ignoring very large delta of 16799554.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.07.04-05.41.02:901][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.04-05.41.21:707][483]LogSlate: Window 'Content Browser' being destroyed
+[2023.07.04-05.41.21:711][483]LogSlate: Window 'Content Browser' being destroyed
+[2023.07.04-05.42.56:703][957]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 755 files in 1247 folders with total size 19 MiB.
