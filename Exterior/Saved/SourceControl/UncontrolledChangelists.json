@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/990/Exterior/Content/Day4.umap",
+				"C:/GitHub/990/Exterior/Content/M_wallbase_3.uasset",
+				"C:/GitHub/990/Exterior/Content/M_wallbase_3_Inst.uasset",
+				"C:/GitHub/990/Exterior/Content/M_wallbase_3_Inst_Inst.uasset",
+				"C:/GitHub/990/Exterior/Content/Day4_BuiltData.uasset",
+				"C:/GitHub/990/Exterior/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/GitHub/990/Exterior/Content/M_wallbase.uasset",
+				"C:/GitHub/990/Exterior/Content/M_wall_Green.uasset",
 				"C:/Users/user/Documents/Unreal Projects/Exterior/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
